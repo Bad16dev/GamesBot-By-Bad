@@ -1,37 +1,30 @@
-{///////Bad
-///////Bad
+{
+
 
   "name": "BadGames",
   "version": "1.0.0",
-  "main": "index.js",///////Bad
+  "main": "index.js",
 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bad",
-  "license": "ISC",/////////////Bad///////Bad
-///////Bad
+  "license": "ISC",
 
-///////Bad
 
   "dependencies": {
     "discord.js": "^11.5.1",
     "express": "^4.17.1",
-    "moment": "^2.29.1",///////Bad///////Bad
-
+    "moment": "^2.29.1",
 
     "ms": "^2.1.2",
-    "request-handler": "^3.4.7"///////Bad
+    "request-handler": "^3.4.7"
 
-  },///////Bad
+  },
 
-  "devDependencies": {},///////Bad
+  "devDependencies": {},
 
-  "description": ""///////Bad///////Bad
-///////Bad
+  "description": ""
 
-///////Bad
 
 }
-///////Bad
-///////Bad
